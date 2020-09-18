@@ -82,7 +82,8 @@ input:placeholder {
 }
 
 button {
-	width: 150px;
+	width: 180px;
+	height: 50px;
 	display: inline-block;
 	padding: 8px 11px;
 	font-size: 1.2rem;
@@ -135,4 +136,8 @@ li {
 
 p {
 	font-size: 20px;
+}
+
+h3 {
+	font-size: 30px;
 }

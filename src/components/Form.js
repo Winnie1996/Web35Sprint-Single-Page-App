@@ -223,9 +223,9 @@ function Form() {
 			</label>
 
 			<button disabled={buttonDisabled} type="submit">
-				Submit
+				Add To Order
 			</button>
-			<h4>New Order</h4>
+			<h3>Your Order</h3>
 			{post.map((user) => {
 				return (
 					<ol>
